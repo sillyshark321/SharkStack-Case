@@ -12,7 +12,7 @@ The whole project fits on a 3mm or 1/8" thick, 24" x 12" sheet of acrylic.
 
 ## Layers on cut file coloured
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/highres.jpg" width="90%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/highres.jpg" width="85%">
 </div>
 
 ## Materials List
@@ -36,7 +36,7 @@ Attach 4 standoffs to the outer sides of the base pieces, and screw them in with
   <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/IMG_6299.jpg" width="45%">
 </div>
 
-
+\
 Stack your tenting layers (3 on each side in the cut file), and secure them to the base with the rest of your standoffs and your longer M2 screws.
 
 <div align="center">
@@ -44,7 +44,7 @@ Stack your tenting layers (3 on each side in the cut file), and secure them to t
   <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/IMG_6302.jpg" width="45%">
 </div>
 
-
+\
 Add 2 big wall layers and 4 short wall layers through the standoffs, as shown here.
 
 <div align="center">
@@ -52,7 +52,7 @@ Add 2 big wall layers and 4 short wall layers through the standoffs, as shown he
   <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/IMG_6304.jpg" width="45%">
 </div>
 
-
+\
 Add your desired switches onto your plate layers, and mount the Corne v3 PCBs to the switches. Put them in the case.\
 Solder PCBs are recommended, but hotswap PCBs work fine too as long as you press firmly. Also attach your OLED covers with your extra standoffs if needed.
 
@@ -66,14 +66,14 @@ Solder PCBs are recommended, but hotswap PCBs work fine too as long as you press
   <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/IMG_6309.jpg" width="45%">
 </div>
 
-
+\
 If you wish to use the version with no OLED cover, you may need to trim the pin headers, as this would happen otherwise.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/old/2024-09-08%2023.44.jpeg" width="80%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/old/2024-09-08%2023.44.jpeg" width="70%">
 </div>
 
-
+\
 Add the last wall layer, and add the top layer on top of the standoffs, and secure the case with the rest of your short M2 screws. Add adhesive rubber feet to finish it off.
 
 <div align="center">
@@ -86,7 +86,7 @@ Add the last wall layer, and add the top layer on top of the standoffs, and secu
   <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/IMG_6313.jpg" width="45%">
 </div>
 
-
+\
 Repeat for the other half of your keyboard. Now you are done!
 <div align="center">
   <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/old/2023-06-04%2010.48.jpeg" width="100%">
@@ -98,3 +98,7 @@ Repeat for the other half of your keyboard. Now you are done!
     <img src="https://raw.githubusercontent.com/sillyshark321/SharkSplit-Layout/main/img/typing_test.png" width="90%">
   </div>
 </a>
+
+## Other Links
+This project was made possible (and heavily inspired) by Joe Scotto's keyboard case designing video:\
+https://www.youtube.com/watch?v=7azQkSu0m_U
