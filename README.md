@@ -12,7 +12,7 @@ The whole project fits on a 3mm or 1/8" thick, 24" x 12" sheet of acrylic.
 
 ## Layers on cut file coloured
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/highres_coloured.jpg" width="90%">
+  <img src="https://raw.githubusercontent.com/sillyshark321/SharkStack-Case/refs/heads/main/img/highres.jpg" width="90%">
 </div>
 
 ## Materials List
